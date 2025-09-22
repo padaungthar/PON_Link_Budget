@@ -1,0 +1,47 @@
+# Optical Fiber Connector Types: A Quick Guide
+
+## 🔷 Connector Types
+
+- **SC (Subscriber Connector)**
+  **Characteristics**:
+  - Widely used in data communication
+  - Push-pull operation
+
+- **LC (Lucent Connector)**
+  **Characteristics**:
+  - Small form factor
+  - Ideal for high-density connections
+
+- **FC (Ferrule Connector)**
+  **Characteristics**:
+  - Used in industrial settings
+  - Screw-type connection for secure fit
+
+- **ST (Straight Tip)**
+   **Characteristics**:
+  - Bayonet-style mount
+  - Common in networking applications
+
+---
+
+## 🔷 Polishing Types
+
+- **PC (Physical Contact)**
+  - 💠 **Standard Polish** : Minimizes back reflection for a stable connection.
+  
+- **UPC (Ultra Physical Contact)**
+  - 💎 **Ultra Polish** : Further reduces reflection, suitable for high-speed networks.
+  
+- **APC (Angled Physical Contact)**
+  - 🔰 **Angled Polish** : Lowest reflection, best for high-performance networks.
+
+---
+
+## 🔷 Colors & Nomenclature
+
+- **Connector Colors**:
+  - 🟠 **Orange**: For 62.5/125 μm fiber
+  - 🔵 **Blue**: For 50/125 μm fiber
+  - 🟢 **Green**: For Single Mode APC fiber
+  - ⚪ **Yellow**: For Single Mode fiber
+  - 💚 **Lime Green**: For OM5 fiber
